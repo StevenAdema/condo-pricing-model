@@ -1,0 +1,775 @@
+{
+    "errorMessage": "Success",
+    "payload": {
+        "propertyHistoryInfo": {
+            "addressInfo": {
+                "city": "Ottawa",
+                "countryCode": "CA",
+                "isFMLS": false,
+                "state": "ON",
+                "street": "255 Bay St #811",
+                "zip": "K1R 0C5"
+            },
+            "canSeeListing": false,
+            "dataSourceId": 7,
+            "definitions": [],
+            "displayTimeZone": "America/Toronto",
+            "events": [
+                {
+                    "dataSourceDisplay": {
+                        "dataSourceDescription": "Canadian Real Estate Association",
+                        "dataSourceId": 247,
+                        "dataSourceImage": "crea_small.png",
+                        "dataSourceName": "CREA",
+                        "shouldShowLargerLogo": false
+                    },
+                    "eventDate": 1621234800000,
+                    "eventDescription": "Listed",
+                    "historyEventType": 1,
+                    "isEventAdminOnly": false,
+                    "isPriceAdminOnly": false,
+                    "marketingRemarks": [
+                        {
+                            "displayLevel": 1,
+                            "marketingRemark": "Upscale luxury condo nestled in the heart of Centertown. Located in the Bowery is a  1 bedroom plus flex room at walking distance to the LRT, fine dining, the Ottawa River, bike paths and anything  you may want out of an urban lifestyle. It features all amenities needed from a rooftop swimming pool and sauna, exercise room, fabulous dining and party room, guest suits and more. This updated condo features stainless steel appliances, quartz countertops and 9ft ceilings throughout. It is an open concept dining / living room area with floor-to-ceiling windows leading to a beautiful private balcony boasting an incredible view over the city. To the right is the main bedroom which has both windows to the balcony and the skyline view. Next to it is a 3 piece full bath accompanied by an additional flex room that could easily be used as an office. This turnkey condo also includes an underground parking space, a storage locker, custom blinds and a reverse osmosis water filtration system. (id:30143) "
+                        }
+                    ],
+                    "mlsDescription": "Active",
+                    "price": 464900,
+                    "priceDisplayLevel": 1,
+                    "source": "CREA",
+                    "sourceId": "1241561"
+                }
+            ],
+            "hasAdminContent": false,
+            "hasLoginContent": false,
+            "hasPropertyHistory": true,
+            "historyHasHiddenRows": true,
+            "isAdminOnlyView": false,
+            "isFMLS": false,
+            "isHistoryStillGrowing": true,
+            "listingIsNull": true,
+            "mediaBrowserInfoBySourceId": {
+                "1241561": {
+                    "altTextForImage": "255 BAY St Unit 811, Ottawa, ON K1R 0C5",
+                    "assembledAddress": "255 BAY St Unit 811",
+                    "displayType": 1,
+                    "isHot": false,
+                    "photos": [
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 0
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_1_2.jpg",
+                            "height": 680,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_1_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_1_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_1_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_1_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_1_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 60
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_2_2.jpg",
+                            "height": 680,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_2_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_2_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_2_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_2_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_2_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 120
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_3_2.jpg",
+                            "height": 682,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_3_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_3_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_3_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_3_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_3_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 180
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_4_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_4_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_4_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_4_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_4_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_4_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 240
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_5_2.jpg",
+                            "height": 680,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_5_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_5_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_5_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_5_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_5_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 300
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_6_2.jpg",
+                            "height": 680,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_6_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_6_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_6_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_6_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_6_2.jpg",
+                                "thumbnailXOffset": 623,
+                                "thumbnailYOffset": 360
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_7_2.jpg",
+                            "height": 768,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_7_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_7_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_7_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_7_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_7_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 0
+                            },
+                            "width": 1001
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_8_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_8_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_8_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_8_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_8_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_8_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 60
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_9_2.jpg",
+                            "height": 682,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_9_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_9_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_9_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_9_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_9_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 120
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_10_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_10_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_10_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_10_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_10_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_10_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 180
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_11_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_11_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_11_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_11_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_11_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_11_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 240
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_12_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_12_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_12_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_12_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_12_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_12_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 300
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_13_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_13_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_13_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_13_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_13_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_13_2.jpg",
+                                "thumbnailXOffset": 703,
+                                "thumbnailYOffset": 360
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_14_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_14_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_14_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_14_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_14_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_14_2.jpg",
+                                "thumbnailXOffset": 783,
+                                "thumbnailYOffset": 0
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_15_2.jpg",
+                            "height": 683,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_15_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_15_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_15_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_15_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_15_2.jpg",
+                                "thumbnailXOffset": 783,
+                                "thumbnailYOffset": 60
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_16_2.jpg",
+                            "height": 681,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_16_2.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_16_2.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_16_2.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_16_2.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_16_2.jpg",
+                                "thumbnailXOffset": 783,
+                                "thumbnailYOffset": 120
+                            },
+                            "width": 1024
+                        },
+                        {
+                            "dataSourceId": 247,
+                            "displayLevel": 1,
+                            "fileName": "1241561_17_0.jpg",
+                            "height": 682,
+                            "photoType": "SPRITED",
+                            "photoUrls": {
+                                "fullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/bigphoto/561/1241561_17_0.jpg",
+                                "lightboxListUrl": "https://ssl.cdn-redfin.com/photo/247/bcsphoto/561/genBcs.1241561_17_0.jpg",
+                                "nonFullScreenPhotoUrl": "https://ssl.cdn-redfin.com/photo/247/mbpaddedwide/561/genMid.1241561_17_0.jpg",
+                                "nonFullScreenPhotoUrlCompressed": "https://ssl.cdn-redfin.com/photo/247/mbphoto/561/genMid.1241561_17_0.jpg"
+                            },
+                            "subdirectory": "561",
+                            "thumbnailData": {
+                                "spriteUrl": "https://ssl.cdn-redfin.com/photo/ldpsprite/725/nsprite.132022725_3.jpg",
+                                "thumbnailUrl": "https://ssl.cdn-redfin.com/photo/247/tmbphoto/561/genTmb.1241561_17_0.jpg",
+                                "thumbnailXOffset": 783,
+                                "thumbnailYOffset": 180
+                            },
+                            "width": 1024
+                        }
+                    ],
+                    "previousListingPhotosCount": 0,
+                    "scans": [],
+                    "streetView": {
+                        "dataSourceId": 247,
+                        "displayLevel": 1,
+                        "latLong": {
+                            "latitude": 45.4153695,
+                            "longitude": -75.7037667
+                        },
+                        "streetViewAvailable": true,
+                        "streetViewUrl": "https://maps.googleapis.com/maps/api/streetview?channel=mb-ldp-publicrecord&location=255+Bay+St+%23811%2C+Ottawa%2C+ON+K1R+0C5&size=665x441&source=outdoor&client=gme-redfin&signature=r4baLsjgDSUrBbsJ2aoPsOMe9AU="
+                    }
+                }
+            },
+            "priceEstimates": {
+                "displayLevel": 1,
+                "priceHomeUrl": "/what-is-my-home-worth?estPropertyId=175151032&src=ldp-estimates"
+            },
+            "sectionPreviewText": "Details will be added when we have them",
+            "showLogoInLists": false
+        },
+        "publicRecordsInfo": {
+            "addressInfo": {
+                "city": "Ottawa",
+                "countryCode": "CA",
+                "isFMLS": false,
+                "state": "ON",
+                "street": "255 Bay St #811",
+                "zip": "K1R 0C5"
+            },
+            "allTaxInfo": [],
+            "basicInfo": {
+                "displayTimeZone": "America/Toronto",
+                "propertyLastUpdatedDate": 1621245604820,
+                "propertyTypeName": "Condo/Co-op"
+            },
+            "sectionPreviewText": "County data refreshed on 05/17/2021",
+            "taxInfo": {}
+        },
+        "schoolsAndDistrictsInfo": {
+            "districtsServingThisHome": [],
+            "elementarySchools": [
+                {
+                    "distanceInMiles": "0.0",
+                    "elementary": true,
+                    "fullAddress": "376 Gloucester St, Ottawa, ON K1R 5E8",
+                    "gradeRanges": "JK to 8",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241042,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Centennial Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/centennial-public-school/241042",
+                    "searchUrl": "/on/school/centennial-public-school/241042",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.5",
+                    "elementary": true,
+                    "fullAddress": "250 Cambridge St N, Ottawa, ON K1R 7B2",
+                    "gradeRanges": "JK to 6",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241035,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Cambridge Street Community Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/cambridge-street-community-public-school/241035",
+                    "searchUrl": "/on/school/cambridge-street-community-public-school/241035",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.7",
+                    "elementary": true,
+                    "fullAddress": "28 Arlington Ave, Ottawa, ON K2P 1C2",
+                    "gradeRanges": "7 to 8",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241070,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Glashan Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/glashan-public-school/241070",
+                    "searchUrl": "/on/school/glashan-public-school/241070",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.7",
+                    "elementary": true,
+                    "fullAddress": "391 Booth St, Ottawa, ON K1R 6X8",
+                    "gradeRanges": "JK to 6",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 240952,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "St Anthony Elementary School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/st-anthony-elementary-school/240952",
+                    "searchUrl": "/on/school/st-anthony-elementary-school/240952",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.7",
+                    "elementary": true,
+                    "fullAddress": "310 Elgin St, Ottawa, ON K2P 1M4",
+                    "gradeRanges": "JK to 6",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241057,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Elgin Street Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/elgin-street-public-school/241057",
+                    "searchUrl": "/on/school/elgin-street-public-school/241057",
+                    "servesHome": false
+                }
+            ],
+            "hasChoiceDistricts": false,
+            "highSchools": [
+                {
+                    "distanceInMiles": "0.2",
+                    "elementary": false,
+                    "fullAddress": "440 Albert St, Ottawa, ON K1R 5B5",
+                    "gradeRanges": "9 to 12",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 241149,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Urban Aboriginal Alternate High School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/urban-aboriginal-alternate-high-school/241149",
+                    "searchUrl": "/on/school/urban-aboriginal-alternate-high-school/241149",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.2",
+                    "elementary": false,
+                    "fullAddress": "440 Albert St, Ottawa, ON K1R 5B5",
+                    "gradeRanges": "N/A",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 243902,
+                    "institutionType": "Private",
+                    "lastUpdatedDate": "Sep 23, 2020",
+                    "middle": false,
+                    "name": "Debbie Campbell Learning Academy",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/debbie-campbell-learning-academy/243902",
+                    "searchUrl": "/on/school/debbie-campbell-learning-academy/243902",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.4",
+                    "elementary": false,
+                    "fullAddress": "160 Percy St, Ottawa, ON K1R 6E5",
+                    "gradeRanges": "9 to 12",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 241123,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Richard Pfaff Secondary Alternate Site",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/richard-pfaff-secondary-alternate-site/241123",
+                    "searchUrl": "/on/school/richard-pfaff-secondary-alternate-site/241123",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.8",
+                    "elementary": false,
+                    "fullAddress": "29 Lisgar St, Ottawa, ON K2P 0B9",
+                    "gradeRanges": "9 to 12",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 241098,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Lisgar Collegiate Institute",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/lisgar-collegiate-institute/241098",
+                    "searchUrl": "/on/school/lisgar-collegiate-institute/241098",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "1.0",
+                    "elementary": false,
+                    "fullAddress": "212 Glebe Ave, Ottawa, ON K1S 2C9",
+                    "gradeRanges": "9 to 12",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 241071,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Glebe Collegiate Institute",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/glebe-collegiate-institute/241071",
+                    "searchUrl": "/on/school/glebe-collegiate-institute/241071",
+                    "servesHome": false
+                }
+            ],
+            "middleSchools": [],
+            "schoolsToShowOnDP": [
+                {
+                    "distanceInMiles": "0.5",
+                    "elementary": true,
+                    "fullAddress": "250 Cambridge St N, Ottawa, ON K1R 7B2",
+                    "gradeRanges": "JK to 6",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241035,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Cambridge Street Community Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/cambridge-street-community-public-school/241035",
+                    "searchUrl": "/on/school/cambridge-street-community-public-school/241035",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.0",
+                    "elementary": true,
+                    "fullAddress": "376 Gloucester St, Ottawa, ON K1R 5E8",
+                    "gradeRanges": "JK to 8",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": false,
+                    "id": 241042,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Centennial Public School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/centennial-public-school/241042",
+                    "searchUrl": "/on/school/centennial-public-school/241042",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.2",
+                    "elementary": false,
+                    "fullAddress": "440 Albert St, Ottawa, ON K1R 5B5",
+                    "gradeRanges": "9 to 12",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 241149,
+                    "institutionType": "Public",
+                    "lastUpdatedDate": "Apr 28, 2021",
+                    "middle": false,
+                    "name": "Urban Aboriginal Alternate High School",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/urban-aboriginal-alternate-high-school/241149",
+                    "searchUrl": "/on/school/urban-aboriginal-alternate-high-school/241149",
+                    "servesHome": false
+                },
+                {
+                    "distanceInMiles": "0.2",
+                    "elementary": false,
+                    "fullAddress": "440 Albert St, Ottawa, ON K1R 5B5",
+                    "gradeRanges": "N/A",
+                    "hasMultipleCatchmentAreas": false,
+                    "high": true,
+                    "id": 243902,
+                    "institutionType": "Private",
+                    "lastUpdatedDate": "Sep 23, 2020",
+                    "middle": false,
+                    "name": "Debbie Campbell Learning Academy",
+                    "numReviews": 0,
+                    "parentRating": 0,
+                    "schoolGranularRatings": [],
+                    "schoolReviews": [],
+                    "schoolUrl": "/on/school/debbie-campbell-learning-academy/243902",
+                    "searchUrl": "/on/school/debbie-campbell-learning-academy/243902",
+                    "servesHome": false
+                }
+            ],
+            "sectionPreviewText": "4 schools serve this home",
+            "servingThisHomeSchools": [],
+            "shouldHideSection": false,
+            "totalSchoolsServiced": 0
+        }
+    },
+    "resultCode": 0,
+    "version": 380
+}

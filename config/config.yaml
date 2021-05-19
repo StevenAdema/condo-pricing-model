@@ -1,0 +1,9 @@
+chrome_driver_path: 'C:\Program Files\Google\chromedriver.exe'
+location: 'viewport=45.43047:45.39779:-75.67997:-75.72151'
+filters:
+  - min-price=350k
+  - max-price=475k
+  - min-beds=1
+  - include=sold-3mo
+
+run_local: True
